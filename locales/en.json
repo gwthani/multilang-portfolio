@@ -1,0 +1,42 @@
+{
+  "title": "My Portfolio",
+  "about": {
+    "title": "About Me",
+    "text": "As a seasoned Creative Director, I excel in crafting innovative solutions that transform concepts into captivating visual models, designed to exceed client expectations. My portfolio showcases over half a decade of expertise in visual direction, design, and video editing."
+  },
+  "works": {
+    "video": {
+      "title": "Video Editing Portfolio",
+      "desc": "A portfolio in the field of video editing, motion graphics, and reel production.",
+      "link": "PC Link"
+    },
+    "graphic": {
+      "title": "Graphic Design Portfolio"
+    }
+  },
+  "clients": {
+    "title": "Clients"
+  },
+  "privileges": {
+    "title": "Privileges",
+    "highQuality": "High Quality: Creating visuals according to academic standards.",
+    "speed": "Speed in Performance: We can speed up work by 40%.",
+    "packages": "Multiple Packages in Terms of Cost: Suitable for small and emerging companies.",
+    "postService": "Post Delivery Service: We provide post-delivery support to ensure success."
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "one": {
+      "text": "“I collaborated with Mr. Sami Zakaria at EGYAUTO and his excellence exceeded expectations.”",
+      "author": "- Shadi Trabulsi, CEO at EGYAUTO"
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "address": "Abu Dhabi, United Arab Emirates",
+    "phone": "+971-544609049",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "email": "sami9zakaria@gmail.com"
+  }
+}
